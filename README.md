@@ -25,3 +25,4 @@
 ``` O(nlogn) ``` <!-- 2^x=n x=logn -->
 
 
+# patika hesabım :https://app.patika.dev/mertkozalak
